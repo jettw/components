@@ -17,21 +17,18 @@ type FeatureText = {
 const featureText: FeatureText[] = [
   {
     icon: <Coins className="h-6 w-6" />,
-    title: "Lorem Ipsum",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    title: "LTL Pickup & Delivery",
+    description: "Unis supports the Walmart Consolidation Program by organizing LTL pickup and delivery schedules for manufacturers in the Walmart Vendor Pool, allowing quick fulfillment of smaller orders without full TL shipment costs.",
   },
   {
     icon: <Coins className="h-6 w-6" />,
-    title: "Lorem Ipsum",
-    description:
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    title: "Regional Distribution Network",
+    description: "We facilitate communication between suppliers and Walmart&apos;s 42 regional distribution centers by consolidating and routing shipments through our consolidation centers.",
   },
   {
     icon: <Coins className="h-6 w-6" />,
-    title: "Lorem Ipsum",
-    description:
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    title: "Streamlined Process",
+    description: "Our consolidation and LTL shipping programs streamline the process, offer a consolidated pricing model at reduced costs, and increase flexibility with transparent performance metrics online.",
   },
 ];
 
@@ -42,12 +39,12 @@ const Feature = () => {
         <div className="flex flex-col gap-6">
           <h3 className="text-4xl">
             <Balancer>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit
+              Efficient Walmart Consolidation Program
             </Balancer>
           </h3>
           <h4 className="text-2xl font-light opacity-70">
             <Balancer>
-              Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+              Streamlining supplier operations through consolidated shipping solutions
             </Balancer>
           </h4>
 

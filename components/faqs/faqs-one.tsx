@@ -17,25 +17,20 @@ type FAQItem = {
 
 const content: FAQItem[] = [
   {
-    question: "Lorem ipsum dolor sit amet?",
-    answer:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    link: "https://google.com",
+    question: "What are Walmart&apos;s OTIF requirements?",
+    answer: "Suppliers must deliver On-Time, In-Full (OTIF) orders in at least 95% of cases. Walmart requires suppliers with a rating of 36% or higher to improve by 20%. Non-compliance may result in penalties, including a 3% fine for early, incomplete, or late orders.",
   },
   {
-    question: "Ut enim ad minim veniam?",
-    answer:
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    question: "What is the Supplier Quality Excellence Program?",
+    answer: "The SQEP ensures end-to-end quality and reduces transportation costs. It requires high accuracy in packaging details, load quality metrics, and PO details. Suppliers may face fines for PO infractions.",
   },
   {
-    question: "Duis aute irure dolor in reprehenderit?",
-    answer:
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    question: "How does Unis support the Walmart Consolidation Program?",
+    answer: "Unis organizes LTL pickup and delivery schedules, facilitates communication with Walmart&apos;s 42 regional distribution centers, and provides consolidated shipping solutions to help suppliers meet Walmart&apos;s requirements efficiently.",
   },
   {
-    question: "Excepteur sint occaecat cupidatat non proident?",
-    answer:
-      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    question: "What are the phases of SQEP implementation?",
+    answer: "Phase 1 began in February 2021, Phase 2 focused on barcode scanning, Phase 3 (March 2022) established packaging guidelines, and Phase 4 will focus on scheduling and transportation requirements.",
   },
 ];
 
